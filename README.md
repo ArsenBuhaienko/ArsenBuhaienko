@@ -10,11 +10,14 @@
 
 ## <h4>Moreover, I possess leadership qualities that enable me to guide and mentor other members of the QA team. Overall, my experience, knowledge, and skills make me a valuable asset to any software testing project.</h4>
 
-## <h4>Disaster Recovery Testing</h4>
-## <h4> Worked closely with teams of developers and DevOps. Wrote scenarios, test cases, and relevant documentation to cover critical situations. In order to predict vulnerabilities and software behavior, explored the product architecture, its services, and technologies. In addition, worked with user feedback, user stories, and bugs. Analyzed the root cause of their occurrence and provided comprehensive test cases to address the issues.
+## <h4>Mentoring QA Trainees</h4>
+## <h4> An introduction to the testing process for newcomers. Providing necessary information, instructions and advice on the testing process. Answers to emerging questions and assistance in solving problems that arise in the process of work. Carrying out knowledge control and certification. Deciding on the end of the onboarding period and joining the engineer to the team. Further guidance and assistance to newcomers directly within the teams.
+
 </h4>
 
 ## <h4>Disaster Recovery Testing</h4>
+## <h4> Worked closely with teams of developers and DevOps. Wrote scenarios, test cases, and relevant documentation to cover critical situations. In order to predict vulnerabilities and software behavior, explored the product architecture, its services, and technologies. In addition, worked with user feedback, user stories, and bugs. Analyzed the root cause of their occurrence and provided comprehensive test cases to address the issues.
+</h4>
 
  ## <h4>Tools</h4>
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
