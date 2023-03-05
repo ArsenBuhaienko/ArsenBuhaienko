@@ -1,15 +1,15 @@
 [![Header](https://github.com/ArsenBuhaienko/ArsenBuhaienko/blob/main/assets/RC-Glossary-What-is-KYC-quality-assurance-830x260-1.png)]()
 
-## As an engineer with 2.5 years of practical experience in software testing, I possess a range of skills in manual testing, regression testing, ad hoc testing, smoke testing, functional testing, and UI testing. I am also adept at creating various test documentation such as test cases, bug reports, and test plans. 
+## <h5>As an engineer with 3 years of practical experience in software testing, I possess a range of skills in manual testing, regression testing, ad hoc testing, smoke testing, functional testing, and UI testing. I am also adept at creating various test documentation such as test cases, bug reports, and test plans.</h5>
 
-## In addition to my practical skills, I have a strong foundation in testing theory and knowledge of the software development life cycle (SDLC). I am well-versed in the different stages and types of testing, as well as techniques for test design. I have experience working with requirements and effectively communicating with developer and DevOps teams. 
+## <h5>In addition to my practical skills, I have a strong foundation in testing theory and knowledge of the software development life cycle (SDLC). I am well-versed in the different stages and types of testing, as well as techniques for test design. I have experience working with requirements and effectively communicating with developer and DevOps teams. </h5>
 
-## I have practical knowledge of Agile/Scrum methodologies and have applied them in my work. I also have expertise in test planning and estimation, which allows me to effectively manage testing efforts. 
+## <h5>I have practical knowledge of Agile/Scrum methodologies and have applied them in my work. I also have expertise in test planning and estimation, which allows me to effectively manage testing efforts. </h5>
 
-## Moreover, I possess leadership qualities that enable me to guide and mentor other members of the QA team. Overall, my experience, knowledge, and skills make me a valuable asset to any software testing project.
+## <h5>Moreover, I possess leadership qualities that enable me to guide and mentor other members of the QA team. Overall, my experience, knowledge, and skills make me a valuable asset to any software testing project.</h5>
 
 
- ## Tools
+ ## <h5>Tools</h5>
  ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![SQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mySQL&logoColor=00FFFF)
 ![Git](https://img.shields.io/badge/-Elastic-000000?style=for-the-badge&logo=Elastic&logoColor=FFFF00)
@@ -24,9 +24,9 @@
 ![Git](https://img.shields.io/badge/-Allure-000000?style=for-the-badge&?logo=data:"https://github.com/ArsenBuhaienko/ArsenBuhaienko/blob/main/assets/Allure.jpg";base64&logoColor=D2691E)
 ![Git](https://img.shields.io/badge/-IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=8B008B)
 
- ## Languages
+ ## <h5>Languages</h5>
  ![Git](https://img.shields.io/badge/-JAVA-000000?style=for-the-badge&logo=Java&logoColor=FFFFFF)
 
- ## Follow Me
+ ## <h5>Follow Me</h5>
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Cheshire_Wolf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/arsen-buhaienko-04a6961a9/)
