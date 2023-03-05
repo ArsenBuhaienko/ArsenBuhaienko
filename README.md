@@ -27,10 +27,9 @@
  ## <h4>Languages</h4>
  ![Git](https://img.shields.io/badge/-JAVA-000000?style=for-the-badge&logo=Java&logoColor=FFFFFF)
 
+ ## <h4>Git Statistic</h4>
+[![Arsen GitHub stats](https://github-readme-stats.vercel.app/api?username=arsenbuhaienko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
  ## <h4>Follow Me</h4>
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Cheshire_Wolf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/arsen-buhaienko-04a6961a9/)
-
-[![Arsen GitHub stats](https://github-readme-stats.vercel.app/api?username=arsenbuhaienko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-1111111111111111212222
