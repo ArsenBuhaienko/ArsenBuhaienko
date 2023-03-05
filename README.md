@@ -10,7 +10,7 @@
 
 
  ## <h4>Tools</h4>
- ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![SQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mySQL&logoColor=00FFFF)
 ![Git](https://img.shields.io/badge/-Elastic-000000?style=for-the-badge&logo=Elastic&logoColor=FFFF00)
 ![Git](https://img.shields.io/badge/-mRemoteNG-000000?style=for-the-badge&logo=mRemoteNG&logoColor=FFFF00)
@@ -30,3 +30,5 @@
  ## <h4>Follow Me</h4>
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Cheshire_Wolf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/arsen-buhaienko-04a6961a9/)
+
+[![Arsen GitHub stats](https://github-readme-stats.vercel.app/api?username=arsenbuhaienko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
