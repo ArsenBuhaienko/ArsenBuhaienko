@@ -1,5 +1,7 @@
 [![Header](https://github.com/ArsenBuhaienko/ArsenBuhaienko/blob/main/assets/RC-Glossary-What-is-KYC-quality-assurance-830x260-1.png)]()
 
+## <h3>Profesional activities</h3>
+## <h4>Testing</h4>
 ## <h4>As an engineer with 3 years of practical experience in software testing, I possess a range of skills in manual testing, regression testing, ad hoc testing, smoke testing, functional testing, and UI testing. I am also adept at creating various test documentation such as test cases, bug reports, and test plans.</h4>
 
 ## <h4>In addition to my practical skills, I have a strong foundation in testing theory and knowledge of the software development life cycle (SDLC). I am well-versed in the different stages and types of testing, as well as techniques for test design. I have experience working with requirements and effectively communicating with developer and DevOps teams. </h4>
@@ -8,6 +10,11 @@
 
 ## <h4>Moreover, I possess leadership qualities that enable me to guide and mentor other members of the QA team. Overall, my experience, knowledge, and skills make me a valuable asset to any software testing project.</h4>
 
+## <h4>Disaster Recovery Testing</h4>
+## <h4> Worked closely with teams of developers and DevOps. Wrote scenarios, test cases, and relevant documentation to cover critical situations. In order to predict vulnerabilities and software behavior, explored the product architecture, its services, and technologies. In addition, worked with user feedback, user stories, and bugs. Analyzed the root cause of their occurrence and provided comprehensive test cases to address the issues.
+</h4>
+
+## <h4>Disaster Recovery Testing</h4>
 
  ## <h4>Tools</h4>
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
