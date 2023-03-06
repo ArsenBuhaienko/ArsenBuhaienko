@@ -1,4 +1,11 @@
-[![Header](https://github.com/ArsenBuhaienko/ArsenBuhaienko/blob/main/assets/RC-Glossary-What-is-KYC-quality-assurance-830x260-1.png)](fff)
+[![Header](https://github.com/ArsenBuhaienko/ArsenBuhaienko/blob/main/assets/RC-Glossary-What-is-KYC-quality-assurance-830x260-1.png)]()
+
+
+<h3>This repository was created to provide more detailed information about my skills and abilities in working with various tools.
+README.md - It contains basic information about my skills and activities
+Mentoring - Feedback from engineers I have worked with and trained are collected here.
+Projects - This folder includes some classes and projects to confirm my automation skills.</h3>
+
 
 ## <h3>Profesional activities</h3>
 ## <h4>Testing</h4>
