@@ -1,4 +1,4 @@
-[![Header](https://github.com/ArsenBuhaienko/ArsenBuhaienko/blob/main/assets/RC-Glossary-What-is-KYC-quality-assurance-830x260-1.png)]()
+[![Header](https://github.com/ArsenBuhaienko/ArsenBuhaienko/blob/main/assets/RC-Glossary-What-is-KYC-quality-assurance-830x260-1.png)](fff)
 
 ## <h3>Profesional activities</h3>
 ## <h4>Testing</h4>
@@ -12,11 +12,14 @@
 
 ## <h4>Mentoring QA Trainees</h4>
 ## <h4> An introduction to the testing process for newcomers. Providing necessary information, instructions and advice on the testing process. Answers to emerging questions and assistance in solving problems that arise in the process of work. Carrying out knowledge control and certification. Deciding on the end of the onboarding period and joining the engineer to the team. Further guidance and assistance to newcomers directly within the teams.
-
 </h4>
 
 ## <h4>Disaster Recovery Testing</h4>
 ## <h4> Worked closely with teams of developers and DevOps. Wrote scenarios, test cases, and relevant documentation to cover critical situations. In order to predict vulnerabilities and software behavior, explored the product architecture, its services, and technologies. In addition, worked with user feedback, user stories, and bugs. Analyzed the root cause of their occurrence and provided comprehensive test cases to address the issues.
+</h4>
+
+## <h4>QA Lead</h4>
+## <h4> I currently serve as the deputy QA Lead at my company and am responsible for fulfilling all the duties of the QA Lead when they are absent. Through my experience leading teams, creating test plans, estimating, and other related activities, I have developed the necessary skills to excel in this role. Under my leadership, we have successfully completed numerous sprints. My strong communication skills enable me to effectively assign tasks, convey information, and mitigate conflicts, which has allowed me to fulfill my responsibilities with ease.
 </h4>
 
  ## <h4>Tools</h4>
